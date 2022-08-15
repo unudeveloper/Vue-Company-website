@@ -6,9 +6,7 @@ Free template for company profile made using Quasar Framework and Vue.js! It is 
 
 # Support
 
-If this helped you, you can contribute to this project by supporting me:
-
-### [💜 Support my open-source work on GitHub](https://github.com/sponsors/mayank091193)
+If this helped you, you can contribute to this project by supporting me: Unudeveloper
 
 Please check out my sponsor page.
 
@@ -25,7 +23,7 @@ Thank you very much!!
 * **Clone the repository**
 
 ```
-git clone https://github.com/mayank091193/vue-quasar-company-profile-website.git
+git clone https://github.com/unudeveloper/Vue-Company-website.git
 ```
 
 ## Install the dependencies
@@ -45,7 +43,7 @@ quasar dev
 quasar build
 ```
 
-Do reach out to me at "mayank091193@gmail.com" for queries.
+Do reach out to me at "unudeveloper@gmail.com" for queries.
 
 ## Screens UI
 **Home**
@@ -79,10 +77,3 @@ Do reach out to me at "mayank091193@gmail.com" for queries.
 	title="News"  />
 	</kbd>
 </p>
-
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
-
-## License
-
-[MIT](http://opensource.org/licenses/MIT)
